@@ -37,7 +37,15 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         modifier = modifier
     )
 }
+<<<<<<< Updated upstream
 //สวดยอดเลย
+=======
+@Composable
+fun Input(Text : String){
+
+}
+
+>>>>>>> Stashed changes
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
